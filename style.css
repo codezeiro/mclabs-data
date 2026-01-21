@@ -73,3 +73,31 @@ footer {
   text-align: center;
 }
 
+/* Floating Buy Me a Coffee Button */
+.bmc-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  background: #FFDD00;
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  z-index: 1000;
+}
+
+.bmc-button img {
+  height: 24px;
+  width: 24px;
+  margin-right: 8px;
+}
+
+.bmc-button:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
