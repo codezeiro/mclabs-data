@@ -1,9 +1,15 @@
 [
   {
-    "date": "2026-01-21",
+    "date": "2026-01-23",
     "title": "Libon SMP: Season of New Beginnings",
     "description": "Libon SMP is finally starting soon. Immerse into a server with player driven economy, Apply for a job, Become the next Governor or Hearth Elder, Participate in fun activities and quests.",
     "image": "images/news/libon_smp_news.png"
+  },
+  {
+    "date": "2026-01-21",
+    "title": "Added my Wet Sand addon",
+    "description": "I've released my Wet Sand addon. check it out.",
+    "image": "https://media.forgecdn.net/attachments/1487/93/mcpedl-png.png"
   },
   {
     "date": "2026-01-18",
